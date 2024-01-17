@@ -8,3 +8,6 @@ Download the libraries for the DHT temperature sensor in the following url:
 https://github.com/adafruit/DHT-sensor-library
 
 
+<img width="698" alt="image" src="https://github.com/mottumAnalytica/CKTUTAS-ESP32/assets/156916926/a47804c9-0458-4209-8e9d-346a1bfc4969">
+
+
